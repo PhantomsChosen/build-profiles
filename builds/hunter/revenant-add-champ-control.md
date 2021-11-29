@@ -1,4 +1,6 @@
 **Revenant Stasis Hunter - Ad Control and Champ Abuser**
+PvE build for endgame content.
+
 This build uses several season 15 artifact mods. Based on [plunderthabooty's video here](<https://www.youtube.com/watch?v=cE-X29pL7KU>). Stareater Scales is recommended. Mod distribution is a suggested setup. Some mods could be equipped on different pieces of armor if needed.
 - **Abilities**: Gambler's Dodge, Duskfield Grenade
 - **Aspects**: Grim Harvest, Touch of Winter

@@ -1,7 +1,0 @@
-// const hash = 'eyJjb25maWd1cmF0aW9uIjp7ImVuYWJsZWRNb2RzIjpbMTAwMSwxMDAyxAUzLDEsMF0sImRpc8UkSXRlbcQlIjY5MTc1Mjk0NzQwNTY0MDcwOTUiXSwiaWdub3JlQXJtb3JBZmZpbml0aWVzT25NYXN0ZXJ3b3JryUNmYWxzZSwibWF4aW11bVN0YXTmAIA0LCJvbmx5VXNl2jVhc3N1bWVMZWdlbmRhcmllc8wrIjp0cnXJJUV4b3RpY9shQ2xhc3PEX9QjbGltaXRQYXJzZWRSZXN1bHRzyBp0cnlMxB1XxDZk5AC/yRvkAL9TaG93xzJXaXRoTm/NKOcAx3Nob3fLGENvbHVtbskeY2hhcmFjdGVy5QCiIjowLCJzZWxlY3RlZOYA1Uhhc2giOjExOTA0OTcwOTcsImZpeGVk7wF95AHhMMU+McUGMsUGM8UGNCI6MH0sIm1pbugBhFRpZXLHMjXFMjHGM8QHMyI6NsU0NiwiNSI6Nn0sImV2ZW50SGFsbG93ZWVuT+kBuGvnAMZ9LCJuYW1lIjoiQ2l0YW5zIiwidmVyc+UCeCIyLjEuMSJ9';
-const { createBuildProfile } = require('../profileBuilder');
-
-const label = 'Citan\'s Ramparts';
-const description = 'PvP build with Citan\'s Ramparts exotic.';
-
-module.exports = createBuildProfile(__filename, label, description);

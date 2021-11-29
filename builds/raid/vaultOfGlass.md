@@ -1,3 +1,6 @@
+**Vault of Glass Weapons**
+Suggested weapons for VoG encounters
+
 **Description**
 Loadout Suggestions for Vault of Glass - Season 15
 
