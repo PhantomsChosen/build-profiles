@@ -1,16 +1,31 @@
-te**Description**
+# $BUILD_NAME
+
+### Description
 
 
-**Light/Dark Subclass**
+### Subclass: 
+* 
 
+### Stat Priority
+``` 
+Mobility   : 
+Resilience : 
+Recovery   : 
+Discipline : 
+Intellect  : 
+Strength   : 
+```
+### Strategy
+* 
 
-**Strategy**
+### Armor Mods
+* 
 
+### Weapons
+* 
 
-**Armor Mods**
+# D2 Armor Picker Profile
 
-
-**D2 Armor Picker Profile**
 Copy the config hash below. Scroll to the bottom of <https://d2armorpicker.com/> and paste the config into the "Import a previously exported configuration" section and click "Start the Import."  You may need to adjust the configuation to find armor that most closely fits the profile.
 
-```insert d2 armor config hash here```
+```REPLACE_ME_WITH_D2_ARMOR_CONFIG_HASH```
