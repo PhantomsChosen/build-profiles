@@ -6,7 +6,7 @@
 ### Subclass: 
 * 
 
-### Stat Priority
+### Stat Requirements
 ``` 
 Mobility   : 
 Resilience : 
@@ -15,8 +15,6 @@ Discipline :
 Intellect  : 
 Strength   : 
 ```
-### Strategy
-* 
 
 ### Armor Mods
 * 
