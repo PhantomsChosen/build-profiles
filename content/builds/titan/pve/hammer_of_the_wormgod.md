@@ -27,9 +27,9 @@ Strength   : 50+
 * A "`-`" means the stat isn't a priority for the build.
 
 ## Exotic Gear
-`Weapon` - [Tractor Cannon](https://www.light.gg/db/items/3580904581/tractor-cannon/) will fill your heavy slot and let you stack its debuff with One-Two Punch for absurd damage.
-
 `Armor` - [Wormgod Caress](https://www.light.gg/db/items/1734844651/wormgod-caress/) will give you the highest possible damage output witha stacking buff. [Synthoceps](https://www.light.gg/db/items/241462142/synthoceps/) are not as powerful but provide a very consistent buff that's easier to manage.
+
+`Weapon` - [Tractor Cannon](https://www.light.gg/db/items/3580904581/tractor-cannon/) will fill your heavy slot and let you stack its debuff with One-Two Punch for absurd damage.
 
 ## Armor Mods
 These mods are optional but they add a lot of utility and survivability.
