@@ -1,8 +1,15 @@
+---
+title: "Hammer of the Wormgod"
+description: "Deal absurd damage with throwing hammers and make a buttload of orbs for your teammates"
+date: 2019-03-26T08:47:11+01:00
+draft: false
+---
+
 # Hammer of the Wormgod
 
 ## Description
 Deal absurd damage with throwing hammers and make a buttload of orbs for your teammates. Ideal for low-stakes PvE like gambit/strikes.
-![](/build_gifs/throwing_hammer.gif)
+![](/throwing_hammer.gif)
 
 ## Subclass:
 Code of the Devastator
@@ -19,7 +26,7 @@ Strength   : 50+
 ```
 * A "`-`" means the stat isn't a priority for the build.
 
-## `Exotic Gear`
+## Exotic Gear
 `Weapon` - [Tractor Cannon](https://www.light.gg/db/items/3580904581/tractor-cannon/) will fill your heavy slot and let you stack its debuff with One-Two Punch for absurd damage.
 
 `Armor` - [Wormgod Caress](https://www.light.gg/db/items/1734844651/wormgod-caress/) will give you the highest possible damage output witha stacking buff. [Synthoceps](https://www.light.gg/db/items/241462142/synthoceps/) are not as powerful but provide a very consistent buff that's easier to manage.

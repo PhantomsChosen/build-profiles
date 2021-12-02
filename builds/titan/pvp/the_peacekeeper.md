@@ -1,7 +1,14 @@
+---
+title: "The Peacekeeper"
+description: "Dual-SMG or SMG/scout."
+date: 2019-03-26T08:47:11+01:00
+draft: false
+---
+
 # The Peacekeeper
 
 ## Description
-Daul-SMG or SMG/scout.
+Dual-SMG or SMG/scout.
 
 ## Subclass:
 Class-neutral but pairs best with Juggernaut striker or a subclasses with a healing trait.

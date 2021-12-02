@@ -1,3 +1,10 @@
+---
+title: "Revenant Stasis Hunter"
+description: "Ad Control and Champ Abuser"
+date: 2019-03-26T08:47:11+01:00
+draft: false
+---
+
 **Revenant Stasis Hunter - Ad Control and Champ Abuser**
 PvE build for endgame content.
 

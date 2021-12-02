@@ -1,3 +1,10 @@
+---
+title: "Vault of Glass Weapon"
+description: "Suggested weapons for VoG encounters"
+date: 2019-03-26T08:47:11+01:00
+draft: false
+---
+
 **Vault of Glass Weapons**
 Suggested weapons for VoG encounters
 
