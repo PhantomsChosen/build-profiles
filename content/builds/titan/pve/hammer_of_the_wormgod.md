@@ -3,6 +3,7 @@ title: "Hammer of the Wormgod"
 description: "Deal absurd damage with throwing hammers and make a buttload of orbs for your teammates"
 date: 2019-03-26T08:47:11+01:00
 draft: false
+tags: ["titan", "pve", "wormgod caress", "synothoceps"]
 ---
 
 # Hammer of the Wormgod
