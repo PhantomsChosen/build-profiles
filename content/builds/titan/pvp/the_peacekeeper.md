@@ -1,14 +1,12 @@
 ---
 title: "The Peacekeeper"
 description: "Dual-SMG or SMG/scout."
-date: 2019-03-26T08:47:11+01:00
+season: 15
 draft: false
 tags: ["titan", "pvp", "peacekeepers"]
 ---
 
-# The Peacekeeper
-
-## Description
+## Overview
 PvP build using Peacekeepers with Dual-SMG. This is also an effective build to run with a single SMG and another weapon archetype like a sniper or scout rifle.  
 
 ## Subclass:

@@ -1,15 +1,13 @@
 ---
 title: "Hammer of the Wormgod"
-description: "Deal absurd damage with throwing hammers and make a buttload of orbs for your teammates"
-date: 2019-03-26T08:47:11+01:00
+description: "Deal absurd damage with throwing hammers and make a buttload of orbs for your teammates."
+season: 15
 draft: false
 tags: ["titan", "pve", "wormgod caress", "synothoceps"]
 ---
 
-# Hammer of the Wormgod
-
-## Description
-Deal absurd damage with throwing hammers and make a buttload of orbs for your teammates. Ideal for low-stakes PvE like gambit/strikes.
+## Overview
+Ideal for low-stakes PvE like gambit/strikes.
 ![](/throwing_hammer.gif)
 
 ## Subclass:

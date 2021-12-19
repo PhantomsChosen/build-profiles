@@ -1,13 +1,14 @@
 ---
 title: "Celestial Nighthawk"
 description: "PvE build with Celestial Nighthawk."
-date: 2019-03-26T08:47:11+01:00
+season: 15
 draft: false
 tags: ['hunter', 'pve', 'celestial nighhawk']
+d2_armor_picker_hash: eyJjb25maWd1cmF0aW9uIjp7ImVuYWJsZWRNb2RzIjpbMCwxXSwiZGlzxRVJdGVtxBYiNjkxNzUyOTQ3NDA1NjQwNzA5NSJdLCJpZ25vcmVBcm1vckFmZmluaXRpZXNPbk1hc3RlcndvcmvJQ2ZhbHNlLCJtYXhpbXVtU3RhdMZxNCwib25seVVzZdo1YXNzdW1lTGVnZW5kYXJpZXPMKyI6dHJ1ySVFeG90aWPbIUNsYXNzxF/UI2xpbWl0UGFyc2VkUmVzdWx0c8gadHJ5TMQdV8Q2ZOQAv8kb5AC/U2hvd8cyV2l0aE5vzSjnAMdzaG93yxhDb2x1bW7JHmV2ZW50SGFsbG93ZWVuT+kBFGvJImNoYXJhY3RlcuUAxCI6MSwic2VsZWN0ZWTmAPdIYXNoIjoxMzIxMzU0NTczLCJmaXhlZO8Bn+QB9DAiOjAsIjHFBjLFBjPFBjQiOjB9LCJtaW7oAaZUaWVyxzI3xTI2xTI4xTI1xTI4LCI1xDh9LCJuYW1lIjoiTmlnaHRoYXdrIiwidmVyc+UCajF9
+dim_profile_link: 'test123'
 ---
-# Celestial Nighthawk
-**Celestial Nighthawk**
-PvE build with Celestial Nighthawk.
+## Overview
+Very flexible build. The goal is to regenerate super energy to make use of Nighthawk's ability with precision damage.
 
 **Light/Dark Subclass**
 Solar - Way of the Sharpshooter (bottom tree)
@@ -20,8 +21,3 @@ Elemental Armaments
 Explosive Wellmaker
 Font of Wisdom
 Well of Ordnance
-
-**D2 Armor Picker Profile**
-Copy the config hash below. Scroll to the bottom of <https://d2armorpicker.com/> and paste the config into the "Import a previously exported configuration" section and click "Start the Import."  You may need to adjust the configuation to find armor that most closely fits the profile.
-
-```eyJjb25maWd1cmF0aW9uIjp7ImVuYWJsZWRNb2RzIjpbMCwxXSwiZGlzxRVJdGVtxBYiNjkxNzUyOTQ3NDA1NjQwNzA5NSJdLCJpZ25vcmVBcm1vckFmZmluaXRpZXNPbk1hc3RlcndvcmvJQ2ZhbHNlLCJtYXhpbXVtU3RhdMZxNCwib25seVVzZdo1YXNzdW1lTGVnZW5kYXJpZXPMKyI6dHJ1ySVFeG90aWPbIUNsYXNzxF/UI2xpbWl0UGFyc2VkUmVzdWx0c8gadHJ5TMQdV8Q2ZOQAv8kb5AC/U2hvd8cyV2l0aE5vzSjnAMdzaG93yxhDb2x1bW7JHmV2ZW50SGFsbG93ZWVuT+kBFGvJImNoYXJhY3RlcuUAxCI6MSwic2VsZWN0ZWTmAPdIYXNoIjoxMzIxMzU0NTczLCJmaXhlZO8Bn+QB9DAiOjAsIjHFBjLFBjPFBjQiOjB9LCJtaW7oAaZUaWVyxzI3xTI2xTI4xTI1xTI4LCI1xDh9LCJuYW1lIjoiTmlnaHRoYXdrIiwidmVyc+UCajF9```
