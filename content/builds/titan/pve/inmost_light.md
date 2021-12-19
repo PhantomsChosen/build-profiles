@@ -1,15 +1,13 @@
 ---
 title: "Heart of Inmost Light"
 description: "insert description here"
-date: 2019-03-26T08:47:11+01:00
+season: 15
 draft: false
 tags: ["titan", "pve", "heart of inmost light"]
 ---
 
 
-# Heart of Inmost Light
-
-### Description
+## Overview
 INSERT_TEXT_HERE
 
 ### Subclass: 
@@ -26,7 +24,7 @@ Strength   : -
 ```
 * A "`-`" means the stat isn't a priority for the build.
 
-## `Exotic Gear`
+## Exotic Gear
 `Weapon` - INSERT_TEXT_HERE
 
 `Armor` - [Heart of Inmost Light]()

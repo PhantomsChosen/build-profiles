@@ -1,15 +1,12 @@
 ---
 title: "Vault of Glass Weapon"
 description: "Suggested weapons for VoG encounters"
-date: 2019-03-26T08:47:11+01:00
+season: 15
 draft: false
 tags: ["raid", "vog"]
 ---
 
-**Vault of Glass Weapons**
-Suggested weapons for VoG encounters
-
-**Description**
+## Overview
 Loadout Suggestions for Vault of Glass - Season 15
 
 **Weapon Overview**

@@ -1,12 +1,12 @@
 ---
 title: "Revenant Stasis Hunter"
 description: "Ad Control and Champ Abuser"
-date: 2019-03-26T08:47:11+01:00
+season: 15
 draft: false
 tags: ["hunter", "pve", "stareater scales", "assassin's cowl"]
 ---
 
-**Revenant Stasis Hunter - Ad Control and Champ Abuser**
+## Overview
 PvE build for endgame content.
 
 This build uses several season 15 artifact mods. Based on [plunderthabooty's video here](<https://www.youtube.com/watch?v=cE-X29pL7KU>). Stareater Scales is recommended. Mod distribution is a suggested setup. Some mods could be equipped on different pieces of armor if needed.
