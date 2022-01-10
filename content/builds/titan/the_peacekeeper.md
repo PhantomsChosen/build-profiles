@@ -44,6 +44,6 @@ This one is pretty straight-forward. Shoot things, move around quickly, and shoo
 
 It promotes a pretty close-quarters and mobile playstyle, therefore benefitting from a subclass with more cqc/melee utility, like a Juggernaut striker. The mobility and sprint buffs will also be helpful for disengaging or strafing in 1v1s.
 
-Running daul-SMG's, you never have to reload again. Just swap weapons every time you empty a mag and you can keep shredding through your enemies. This should make it easier to move from engagement to engagement.
+Running dual-SMG's, you never have to reload again. Just swap weapons every time you empty a mag and you can keep shredding through your enemies. This should make it easier to move from engagement to engagement.
 
-The only issue you *may* run into with daul-SMGs is long range engagements. For larger maps, I'd recommend keeping a scout, pulse or sniper on hand to pair with one of your SMGs.
+The only issue you *might* run into with dual-SMGs is long range engagements. For larger maps, I'd recommend keeping a scout, pulse or sniper on hand to pair with one of your SMGs.

@@ -33,8 +33,8 @@ Strength   : 90+
 
 ### Armor Mods
 Incorporating these mods isn't required but will make your ability rotation way smoother.
-* [Melee Kickstart](https://www.light.gg/db/items/1371877916/melee-kickstart/) (stasis)
-* [Utility Kickstart](https://www.light.gg/db/items/445559589/utility-kickstart/) (stasis)
+* [Melee Kickstart](https://www.light.gg/db/items/1371877916/melee-kickstart/) (stasis arms)
+* [Utility Kickstart](https://www.light.gg/db/items/445559589/utility-kickstart/) (stasis class item)
 
 ### Weapons
 Nothing is really required here but weapons with [Surplus](https://www.light.gg/db/items/3436462433/surplus/) will really shine with this build, since you'll almost always have an ability charged. Omnioculous also lets you hold two smoke charges, which both count towards Surplus's stacking effects.
@@ -44,8 +44,8 @@ Nothing is really required here but weapons with [Surplus](https://www.light.gg/
 ## How It Works
 Essentially, you're going to be using your smoke grenade to buff yourself and team with invisibility, damage resistance, and HotP as often as possible with near-constant uptime.
 
-1. Make yourself and at least one teammate invisible using a smoke grenade. This will give back about 80% of your melee charge and a good chunk of grenade energy if you've already spent your grenade.
+1. Make yourself and at least one teammate invisible using a smoke grenade. This will return about 80% of your melee charge and a good chunk of grenade energy if you've already spent your grenade.
    * Making yourself and two others invisible will give back a full melee charge.
 2. Everyone affected will receive a damage resistance buff, allowing you to enter your next engagement more securely.  
-3. Dealing damage with your grenade will return additional melee energy in case you don't get a full return from casting smokes.
-4. Repeat this cycle and let the hate-mail flow in.
+3. Using your smokes more often will let you throw grenades more often. Dealing damage with your grenade will also return additional melee energy in case you don't get a full return from casting smokes.
+4. Repeat this loop and let the hate-mail flow in.

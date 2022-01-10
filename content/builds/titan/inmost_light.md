@@ -15,7 +15,7 @@ This works with any subclass but there are two that offer more viability in toug
 * [Code of the Seigebreaker](https://d2.destinygamewiki.com/wiki/Code_of_the_Siegebreaker) 
   * This one excels in add-clear situations.
 * [Code of the Commander](https://d2.destinygamewiki.com/wiki/Code_of_the_Commander) 
-  * This is good for adclear too but its detonators and super make it more useful for encounters with large enemy vehicles and
+  * This is good for add-clear too but its detonators and super make it more useful for encounters with large enemy vehicles as well.
 
 
 ### Stat Requirements
@@ -36,9 +36,9 @@ Strength   : 50+
 ### Armor Mods
 [Heart of Inmost Light](https://www.light.gg/db/items/1341951177/heart-of-inmost-light/) is strong enough on its own but there are some potent mod combinations that can push things even further:
 * Kickstart mods:
-  * [Grenade Kickstart](https://www.light.gg/db/items/47859594/grenade-kickstart/) (stasis)
-  * [Melee Kickstart](https://www.light.gg/db/items/1371877916/melee-kickstart/) (stasis)
-  * [Utility Kickstart](https://www.light.gg/db/items/445559589/utility-kickstart/) (stasis)
+  * [Grenade Kickstart](https://www.light.gg/db/items/47859594/grenade-kickstart/) (stasis arms)
+  * [Melee Kickstart](https://www.light.gg/db/items/1371877916/melee-kickstart/) (stasis arms)
+  * [Utility Kickstart](https://www.light.gg/db/items/445559589/utility-kickstart/) (stasis class item)
 * Charged With Light mods:
   * [Charge Harvester](https://www.light.gg/db/items/2263321587) (void)
   * [Firepower](https://www.light.gg/db/items/3185435908) (solar)

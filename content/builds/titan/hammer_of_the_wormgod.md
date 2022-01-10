@@ -26,7 +26,7 @@ Strength   : 50+
 * A "`-`" means the stat isn't a priority for the build.
 
 ### Armor
-[Wormgod Caress](https://www.light.gg/db/items/1734844651/wormgod-caress/) will give you the highest possible damage output witha stacking buff. [Synthoceps](https://www.light.gg/db/items/241462142/synthoceps/) are not as powerful but work as a solid alternative.
+[Wormgod Caress](https://www.light.gg/db/items/1734844651/wormgod-caress/) will give you the highest possible damage output with its stacking buff. [Synthoceps](https://www.light.gg/db/items/241462142/synthoceps/) are not as powerful but work as a solid alternative.
 
 ### Armor Mods
 These mods are all optional but they add a lot of utility and survivability and will maximize your efficiency.
@@ -35,12 +35,13 @@ These mods are all optional but they add a lot of utility and survivability and 
 * [Striking Light](https://www.light.gg/db/items/1484685885/striking-light/) (arc)
 * [Well of life](https://www.light.gg/db/items/2164090163/well-of-life/) (solar)
 * [Protective Light](https://www.light.gg/db/items/3523075120/protective-light/) (void)
-* [Shotgun Ammo finder](https://www.light.gg/db/items/4148827738/shotgun-ammo-finder/) + [Shotgun Scavenger](https://www.light.gg/db/items/3836152936/shotgun-scavenger/)
-* [Impact Induction](https://www.light.gg/db/items/3470562293/impact-induction/)
+* [Shotgun Ammo finder](https://www.light.gg/db/items/4148827738/shotgun-ammo-finder/) (helmet)
+* [Shotgun Scavenger](https://www.light.gg/db/items/3836152936/shotgun-scavenger/) (legs)
+* [Impact Induction](https://www.light.gg/db/items/3470562293/impact-induction/) (solar arms)
 
 ### Weapons
 A shotgun with "One-Two Punch" and full choke is critical to this build. 
-* [One Small Step](https://d2gunsmith.com/w/1016668089?s=1047830412,106909392,3161816588,2679249093,758092021,0) is an easily-farmable kinetic option.
+* [One Small Step](https://d2gunsmith.com/w/1016668089?s=1047830412,106909392,3161816588,2679249093,758092021,0) is an easily-farmable kinetic option. [Wastelander](https://d2gunsmith.com/w/1679868061?s=1047830412,791862061,3161816588,2679249093,186337601,984527513) is an arguably better option but far more difficult to farm.
 * World drops and focusing umbrals can also drop a good [The Deicide](https://d2gunsmith.com/w/217140611?s=1047830412,106909392,3161816588,2679249093,758092021,0) for your energy slot.
 * Consider running a primary weapon with [Wellspring](https://www.light.gg/db/items/3592538738/wellspring/) if you end up losing your hammer a lot.
 
