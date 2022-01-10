@@ -13,9 +13,9 @@ Turn yourself and your fireteam into invisible stat-monsters and throw a bunch o
 [Way of the Pathfinder](https://d2.destinygamewiki.com/wiki/Way_of_the_Pathfinder) with [Spike Grenade](https://d2.destinygamewiki.com/wiki/Spike_Grenade)
 
 ### Stat Requirements
-Strength is top priority here so you can throw smokes as often as possible. 
+Strength is top priority and T10 is ideal to throw smokes as often as possible. 
 
-Your resilience really doesn't need to go past 32 for this build. Using your smoke will give you one stack of Heart of the Pack (**HotP**) for each player that you make invisible up to 3 stacks (including yourself). Each stack of HotP will give you 34 resilience. This means that with a base resilience of 32, making yourself and one other person invisible will bump your resilience up to 100.
+Your resilience really doesn't need to go past 32 for this build. Each time you use your smoke on a player (including yourself), you will get one stack of Heart of the Pack (**HotP**) up to 3 stacks. Each stack of HotP will give you 34 resilience. This means that with a base resilience of 32, two stacks of HotP will bump your resilience up to 100.
 
 Mobility and recovery are are also buffed by HotP but should still be high for when you moments when you don't have HotP active. A good baseline of discipline will pair nicely with the flow of this build too.
 ``` 
@@ -24,7 +24,7 @@ Resilience : ~32
 Recovery   : 80+
 Discipline : 30+
 Intellect  : -
-Strength   : 90+
+Strength   : 100
 ```
 * A "`-`" means the stat isn't a priority for the build.
 
