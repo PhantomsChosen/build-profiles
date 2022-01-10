@@ -32,14 +32,15 @@ Strength   : -
 ```
 * A "`-`" means the stat isn't a priority for the build.
 
-## Exotic Gear
-`Weapon` - INSERT_TEXT_HERE
-
-`Armor` - INSERT_TEXT_HERE
+### Armor
+Include if this build needs a specific piece or Artifice or Exotic armor:
+[EXAMPLE_EXOTIC_NAME](lightgg_link) - INSERT_TEXT_HERE
 
 ### Armor Mods
 (Mention if they're optional or required)
-* INSERT_MOD_HERE
+* INSERT_MOD_GROUP_HERE 
+  * MOD
+  * MOD
 * INSERT_MOD_HERE
 * etc
 
