@@ -21,7 +21,7 @@ Mobility and recovery are are also buffed by HotP but should still be high for w
 ``` 
 Mobility   : 80+
 Resilience : ~32
-Recovery   : 80+
+Recovery   : 100
 Discipline : 30+
 Intellect  : -
 Strength   : 100

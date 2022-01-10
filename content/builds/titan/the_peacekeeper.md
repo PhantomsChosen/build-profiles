@@ -17,7 +17,7 @@ Tier 6 resilience and tier 9 recovery are generally the standard for survivabili
 ``` 
 Mobility   : Any
 Resilience : 60
-Recovery   : 90
+Recovery   : 100
 Discipline : any
 Intellect  : any
 Strength   : any
