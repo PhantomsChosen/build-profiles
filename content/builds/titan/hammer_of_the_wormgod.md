@@ -26,7 +26,7 @@ Strength   : 50+
 * A "`-`" means the stat isn't a priority for the build.
 
 ### Armor
-[Wormgod Caress](https://www.light.gg/db/items/1734844651/wormgod-caress/) will give you the highest possible damage output witha stacking buff. [Synthoceps](https://www.light.gg/db/items/241462142/synthoceps/) are not as powerful but provide a very consistent buff that's easier to manage.
+[Wormgod Caress](https://www.light.gg/db/items/1734844651/wormgod-caress/) will give you the highest possible damage output witha stacking buff. [Synthoceps](https://www.light.gg/db/items/241462142/synthoceps/) are not as powerful but work as a solid alternative.
 
 ### Armor Mods
 These mods are all optional but they add a lot of utility and survivability and will maximize your efficiency.
