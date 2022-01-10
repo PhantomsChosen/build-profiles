@@ -3,7 +3,7 @@ title: "Hammer of the Wormgod"
 description: "Bonk."
 season: 15
 draft: false
-tags: ["titan", "pve", "wormgod caress", "synothoceps"]
+tags: ["titan", "pve", "wormgod caress", "synothoceps", "hammer", "bonk"]
 ---
 
 ## Overview
@@ -14,7 +14,7 @@ This build allows you to deal absurd damage with throwing hammers and make a ton
 [Code of the Devastator](https://d2.destinygamewiki.com/wiki/Code_of_the_Devastator)
 
 ### Stat Requirements
-Recovery is top priority for this build but a good baseline of strength and discipline are nice to kickstart [Roaring Flames](https://d2.destinygamewiki.com/wiki/Roaring_Flames) and get your hammer back if you lose it.
+Recovery is high priority for this build but a good baseline of strength and discipline are nice to kickstart [Roaring Flames](https://d2.destinygamewiki.com/wiki/Roaring_Flames) and get your hammer back if you lose it.
 ``` 
 Mobility   : -
 Resilience : -
@@ -23,11 +23,10 @@ Discipline : 50+
 Intellect  : -
 Strength   : 50+
 ```
+* A "`-`" means the stat isn't a priority for the build.
 
-### Exotic Gear
-**Armor** - [Wormgod Caress](https://www.light.gg/db/items/1734844651/wormgod-caress/) will give you the highest possible damage output witha stacking buff. [Synthoceps](https://www.light.gg/db/items/241462142/synthoceps/) are not as powerful but provide a very consistent buff that's easier to manage.
-
-**Weapon** - [Tractor Cannon](https://www.light.gg/db/items/3580904581/tractor-cannon/) will fill your heavy slot and let you stack its debuff with One-Two Punch for absurd damage.
+### Armor
+[Wormgod Caress](https://www.light.gg/db/items/1734844651/wormgod-caress/) will give you the highest possible damage output witha stacking buff. [Synthoceps](https://www.light.gg/db/items/241462142/synthoceps/) are not as powerful but provide a very consistent buff that's easier to manage.
 
 ### Armor Mods
 These mods are all optional but they add a lot of utility and survivability and will maximize your efficiency.
@@ -43,7 +42,9 @@ These mods are all optional but they add a lot of utility and survivability and 
 A shotgun with "One-Two Punch" and full choke is critical to this build. 
 * [One Small Step](https://d2gunsmith.com/w/1016668089?s=1047830412,106909392,3161816588,2679249093,758092021,0) is an easily-farmable kinetic option.
 * World drops and focusing umbrals can also drop a good [The Deicide](https://d2gunsmith.com/w/217140611?s=1047830412,106909392,3161816588,2679249093,758092021,0) for your energy slot.
-* Consider running a primary weapon with [Wellspring](https://www.light.gg/db/items/3592538738/wellspring/) if you lose your hammer a lot.
+* Consider running a primary weapon with [Wellspring](https://www.light.gg/db/items/3592538738/wellspring/) if you end up losing your hammer a lot.
+
+[Tractor Cannon](https://www.light.gg/db/items/3580904581/tractor-cannon/) will fill your heavy slot and let you stack its debuff with One-Two Punch for absurd damage.
 
 ### How It Works
 Unless you lose your hammer, you'll be killing things exclusively with your throwing hammer and sometimes shotguns. 

@@ -66,7 +66,7 @@ Below are the combat loops for the recommended subclass paths.
 1. Cast your barricade then throw an empowered grenade.
 2. Dealing void ability damage to an enemy attaches a detonator.
 3. Dealing more damage to enemies with detonators attached will detonate an explosion.
-4. Detonator explosions heal and give ability energy to you and your nearby allies
+4. Detonator explosions heal and give ability energy to you and your nearby allies, keeping you alive and letting you use abilities more often.
    * Voidwall is ideal for this because it hammers enemies with multiple ticks of damage, creating a flurry explosions.
    * **Tip**: Throw a voidwall under fallen walkers and cabal tanks. They have multiple "parts" that detonators can attach to, allowing for more explosions. :)
 5. Repeat and enjoy.
