@@ -3,7 +3,7 @@ title: "Heart of Inmost Light"
 description: "Empower your abilities and use them more frequently in any activity."
 season: 15
 draft: false
-tags: ["titan", "pve", "pvp", "heart of inmost light", "ability spam", "class-neutral"]
+tags: ["titan", "pve", "pvp", "heart of inmost light", "ability spam", "class-neutral", "grenade"]
 ---
 
 

@@ -3,7 +3,7 @@ title: "Hammer of the Wormgod"
 description: "Bonk."
 season: 15
 draft: false
-tags: ["titan", "pve", "wormgod caress", "synothoceps", "hammer", "bonk"]
+tags: ["titan", "pve", "wormgod caress", "synothoceps", "hammer", "bonk", "melee"]
 ---
 
 ## Overview
