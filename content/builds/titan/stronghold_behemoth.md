@@ -26,11 +26,15 @@ This build technically works with any subclass but [Behemoth](https://d2.destiny
 * [Tectonic Harvest](https://www.light.gg/db/items/2031919264/tectonic-harvest/) will keep you fuled with shards for your overshield and charges of light. 
 * [Diamond Lance](https://www.light.gg/db/items/3866705246/diamond-lance/) will give you an extra fragment slot and some long-range freezing potential. 
 #### Fragments
-
-
+* [Whisper of Rime](https://www.light.gg/db/items/2483898430)
+* [Whisper of Chains](https://www.light.gg/db/items/537774540)
+* [Whisper of Conduction](https://www.light.gg/db/items/2483898429)
+* [Whisper of Shards](https://www.light.gg/db/items/3469412975)
+* [Whisper of Torment](https://www.light.gg/db/items/537774541)
 
 ### Stat Requirements
 You'll want to prioritize discipline and recovery with good baseline of resilience. This will let you deploy glaciers and barricades more often to make more shards or recover as needed. Strength is a non-issue since you'll get a ton of melee regen from picking up shards.  
+
 ``` 
 Mobility   : -
 Resilience : 50+
@@ -42,7 +46,7 @@ Strength   : -
 * A "`-`" means the stat isn't a priority for the build.
 
 ### Armor
-[Stronghold]([lightgg_link](https://www.light.gg/db/items/2240152949/stronghold/)) will heal you when you block and allow you to block indefinitely, without consuming sword ammo. This makes it easy to move from enemy to enemy safely.
+[Stronghold]([lightgg_link](https://www.light.gg/db/items/2240152949/stronghold/)) is the glue that holds this build together. It will heal you when you block and allow you to block indefinitely, without consuming sword ammo. This makes it easy to move from enemy to enemy safely.
 
 ### Armor Mods
   * [Elemental Charge](https://www.light.gg/db/items/3730619869/elemental-charge/)
@@ -77,4 +81,4 @@ Essentially, you'll create and shatter your crystals before and during engagemen
 2. Once you get close enough, you can start wailing on your enemies. 
 3. If you're attacking an enemy with a stomp or knock back attack (bosses, phalanxes, etc), you can block with your sword to avoid being launched into the air.
 4. Throughout combat, make stasis crystals whenever you can to keep yourself charged with light and regenerate your overshield.
-5. 
+5. Repeat until everything is dead.
