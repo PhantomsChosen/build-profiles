@@ -22,15 +22,15 @@ If you're looking for a space-knight power fantasy to run in endgame content, yo
 ### Subclass:
 This build technically works with any subclass but [Behemoth](https://d2.destinygamewiki.com/wiki/Behemoth) will unlock it's full potential.
 
-####Aspects
+#### Aspects
 * [Tectonic Harvest](https://www.light.gg/db/items/2031919264/tectonic-harvest/) will keep you fuled with shards for your overshield and charges of light. 
 * [Diamond Lance](https://www.light.gg/db/items/3866705246/diamond-lance/) will give you an extra fragment slot and some long-range freezing potential. 
 #### Fragments
-* [Whisper of Rime](https://www.light.gg/db/items/2483898430)
-* [Whisper of Chains](https://www.light.gg/db/items/537774540)
-* [Whisper of Conduction](https://www.light.gg/db/items/2483898429)
-* [Whisper of Shards](https://www.light.gg/db/items/3469412975)
-* [Whisper of Torment](https://www.light.gg/db/items/537774541)
+* [Whisper of Rime](https://www.light.gg/db/items/2483898430) to get an overshield from shards.
+* [Whisper of Chains](https://www.light.gg/db/items/537774540) to take less damage near stasis crystals.
+* [Whisper of Conduction](https://www.light.gg/db/items/2483898429) to pull shards towards you.
+* [Whisper of Shards](https://www.light.gg/db/items/3469412975) for grenade regen buff after breaking crystals.
+* [Whisper of Torment](https://www.light.gg/db/items/537774541) to get grenade energy from taking and blocking damage.
 
 ### Stat Requirements
 You'll want to prioritize discipline and recovery with good baseline of resilience. This will let you deploy glaciers and barricades more often to make more shards or recover as needed. Strength is a non-issue since you'll get a ton of melee regen from picking up shards.  
@@ -66,7 +66,7 @@ An [Eyasluna](https://d2gunsmith.com/w/235827225?s=1926090095,1968497646,3108830
 
 For esier content, you can run a well-rolled [crown-splitter](https://d2gunsmith.com/w/2782325302?s=1261178282,2349202967,2244851822,3016987351,3486498337,0). Counterattack (+20%) and flash counter (+50%) stack and can give you a massive damage buff if you learn the timing.
 
-## How It Works
+### How It Works
 
 Essentially, you'll create and shatter your crystals before and during engagements to give yourself an overshield and charges of light. This lets you get up close and personal with your sword while taking minimal damage and healing yourself.
 
